@@ -12,3 +12,9 @@ DenseNet is one of the new discoveries in neural networks for visual object reco
 
 ![densenet](https://user-images.githubusercontent.com/42516515/96692568-d0496500-13a3-11eb-9286-2711a0033d78.png)
 
+### Inception-ResNet-v2
+
+Inception-ResNet-v2 is a convolutional neural network that is trained on more than a million images from the ImageNet database. The network is 164 layers deep and can classify images into 1000 object categories, such as the keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 299-by-299, and the output is a list of estimated class probabilities.
+
+![capture](https://user-images.githubusercontent.com/42516515/97109744-f9972780-16fa-11eb-972d-eda3972060d8.PNG)
+

@@ -26,4 +26,5 @@ The model itself is made up of symmetric and asymmetric building blocks, includi
 
 A high-level diagram of the model is shown below:
 
-https://cloud.google.com/tpu/docs/images/inceptionv3onc--oview.png
+![inceptionv3onc--oview](https://user-images.githubusercontent.com/42516515/97799692-973bab00-1c55-11eb-9047-71f7cadd1e48.png)
+
